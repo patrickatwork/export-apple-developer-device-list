@@ -1,6 +1,6 @@
 # Export Apple Developer Device List
 
-This script allow you to export the device list from Apple Developer Website. Copy and paste the code in conole of Apple Developer Device List page. It will output all device UDID.
+This script allow you to export the device list from Apple Developer Website. Copy and paste the following code in console of Apple Developer Device List page. It will output all device UDID in console, then you can copy and save it in .csv file.
 
 https://developer.apple.com/account/resources/devices/list
 
