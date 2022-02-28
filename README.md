@@ -5,6 +5,7 @@ This script allow you to export the device list from Apple Developer Website. Co
 https://developer.apple.com/account/resources/devices/list
 
 ```javascript
+console.log('Device List:');
 var result = 'Name,Identifier,Type,State';
 var rows = document.querySelectorAll('.infinite-scroll-component .row[data-platform="IOS"]');
 for (var row of rows) {
